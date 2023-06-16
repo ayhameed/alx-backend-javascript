@@ -1,1 +1,1 @@
-Abdulhameed - JS promises
+el faruq promises

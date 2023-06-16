@@ -1,1 +1,1 @@
-ALX JAVASCRIPT CLASSES
+js classes
